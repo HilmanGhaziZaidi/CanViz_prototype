@@ -1,0 +1,16 @@
+,Blood Cancer - Stage 1,Blood Cancer - Stage 2,Blood Cancer - Stage 3,Breast Cancer,Colon Cancer,Kidney Cancer,Lung Cancer - Stage 1,Lung Cancer - Stage 2,Oral Cancer,Healthy Blood,Healthy Breast,Healthy Colon,Healthy Kidney,Healthy Lung,Healthy Oral
+Blood Cancer - Stage 1,200,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blood Cancer - Stage 2,0,200,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blood Cancer - Stage 3,0,0,198,0,0,0,0,0,0,2,0,0,0,0,0
+Breast Cancer,0,0,0,199,0,0,0,0,0,0,0,0,0,1,0
+Colon Cancer,0,0,0,0,200,0,0,0,0,0,0,0,0,0,0
+Kidney Cancer,0,0,0,0,0,200,0,0,0,0,0,0,0,0,0
+Lung Cancer - Stage 1,0,0,0,0,0,0,200,0,0,0,0,0,0,0,0
+Lung Cancer - Stage 2,0,0,0,0,0,0,0,200,0,0,0,0,0,0,0
+Oral Cancer,0,0,0,0,0,0,0,0,192,0,0,0,0,0,8
+Healthy Blood,0,0,0,0,0,0,0,0,0,200,0,0,0,0,0
+Healthy Breast,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0
+Healthy Colon,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0
+Healthy Kidney,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0
+Healthy Lung,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0
+Healthy Oral,0,0,0,0,0,0,0,0,2,0,0,0,0,0,198

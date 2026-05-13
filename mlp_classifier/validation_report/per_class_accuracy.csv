@@ -1,0 +1,16 @@
+true_name,true_display,total,correct,accuracy,avg_confidence,accuracy_percent
+cancer_oral,Oral Cancer,200,192,0.96,0.95171463,96.0
+cancer_blood_stage_3,Blood Cancer - Stage 3,200,198,0.99,0.9569683,99.0
+healthy_oral,Healthy Oral,200,198,0.99,0.9477955,99.0
+cancer_breast,Breast Cancer,200,199,0.995,0.95343554,99.5
+cancer_colon,Colon Cancer,200,200,1.0,0.9594631,100.0
+cancer_kidney,Kidney Cancer,200,200,1.0,0.95507604,100.0
+cancer_blood_stage_2,Blood Cancer - Stage 2,200,200,1.0,0.9572279,100.0
+cancer_blood_stage_1,Blood Cancer - Stage 1,200,200,1.0,0.9582079,100.0
+cancer_lung_stage_2,Lung Cancer - Stage 2,200,200,1.0,0.9569142,100.0
+cancer_lung_stage_1,Lung Cancer - Stage 1,200,200,1.0,0.9579109,100.0
+healthy_breast,Healthy Breast,200,200,1.0,0.9578795,100.0
+healthy_blood,Healthy Blood,200,200,1.0,0.9561035,100.0
+healthy_colon,Healthy Colon,200,200,1.0,0.9558275,100.0
+healthy_kidney,Healthy Kidney,200,200,1.0,0.9539368,100.0
+healthy_lung,Healthy Lung,200,200,1.0,0.9586532,100.0
