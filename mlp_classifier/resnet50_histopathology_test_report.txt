@@ -1,0 +1,42 @@
+Best validation accuracy: 0.994359
+Validation loss: 0.471335
+Validation accuracy: 0.994359
+Test loss: 0.477653
+Test accuracy: 0.991282
+
+                        precision    recall  f1-score   support
+
+Blood Cancer - Stage 1       1.00      1.00      1.00       150
+Blood Cancer - Stage 2       1.00      1.00      1.00       150
+Blood Cancer - Stage 3       1.00      1.00      1.00       150
+         Breast Cancer       0.94      0.97      0.95       150
+          Colon Cancer       1.00      1.00      1.00       150
+         Kidney Cancer       0.98      1.00      0.99       150
+ Lung Cancer - Stage 1       1.00      1.00      1.00       150
+ Lung Cancer - Stage 2       1.00      1.00      1.00       150
+         Healthy Blood       1.00      1.00      1.00       150
+        Healthy Breast       0.97      0.93      0.95       150
+         Healthy Colon       1.00      1.00      1.00       150
+        Healthy Kidney       1.00      0.98      0.99       150
+          Healthy Lung       1.00      1.00      1.00       150
+
+              accuracy                           0.99      1950
+             macro avg       0.99      0.99      0.99      1950
+          weighted avg       0.99      0.99      0.99      1950
+
+
+Confusion matrix:
+                        Blood Cancer - Stage 1  Blood Cancer - Stage 2  Blood Cancer - Stage 3  Breast Cancer  Colon Cancer  Kidney Cancer  Lung Cancer - Stage 1  Lung Cancer - Stage 2  Healthy Blood  Healthy Breast  Healthy Colon  Healthy Kidney  Healthy Lung
+Blood Cancer - Stage 1                     150                       0                       0              0             0              0                      0                      0              0               0              0               0             0
+Blood Cancer - Stage 2                       0                     150                       0              0             0              0                      0                      0              0               0              0               0             0
+Blood Cancer - Stage 3                       0                       0                     150              0             0              0                      0                      0              0               0              0               0             0
+Breast Cancer                                0                       0                       0            146             0              0                      0                      0              0               4              0               0             0
+Colon Cancer                                 0                       0                       0              0           150              0                      0                      0              0               0              0               0             0
+Kidney Cancer                                0                       0                       0              0             0            150                      0                      0              0               0              0               0             0
+Lung Cancer - Stage 1                        0                       0                       0              0             0              0                    150                      0              0               0              0               0             0
+Lung Cancer - Stage 2                        0                       0                       0              0             0              0                      0                    150              0               0              0               0             0
+Healthy Blood                                0                       0                       0              0             0              0                      0                      0            150               0              0               0             0
+Healthy Breast                               0                       0                       0             10             0              0                      0                      0              0             140              0               0             0
+Healthy Colon                                0                       0                       0              0             0              0                      0                      0              0               0            150               0             0
+Healthy Kidney                               0                       0                       0              0             0              3                      0                      0              0               0              0             147             0
+Healthy Lung                                 0                       0                       0              0             0              0                      0                      0              0               0              0               0           150
